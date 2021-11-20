@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ThirdTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ThirdTask.AssemblyInfo.cs
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThirdTask\ThirdTask\bin\Debug\net5.0\ThirdTask.deps.json
+C:\Users\User\source\repos\ThirdTask\ThirdTask\bin\Debug\net5.0\ThirdTask.dll
+C:\Users\User\source\repos\ThirdTask\ThirdTask\bin\Debug\net5.0\ref\ThirdTask.dll
+C:\Users\User\source\repos\ThirdTask\ThirdTask\bin\Debug\net5.0\ThirdTask.pdb
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ThirdTask.dll
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ref\ThirdTask.dll
+C:\Users\User\source\repos\ThirdTask\ThirdTask\obj\Debug\net5.0\ThirdTask.pdb
